@@ -10,7 +10,7 @@ In the last year, I dedicated my time to web development 💀, which allowed me 
 
 - <img src="https://github.com/BartoszJakubowsky/BartoszJakubowsky/assets/110412160/3e32e853-e0dc-47c4-852e-d2580949dbfb" alt="typescript" width=15/> TypeScript
 
-- <img src="https://github.com/BartoszJakubowsky/BartoszJakubowsky/assets/110412160/15e073b9-7caa-419e-b175-f91beb76e253" alt="react" width=15/> ReactJS
+- <img src="https://github.com/BartoszJakubowsky/BartoszJakubowsky/assets/110412160/15e073b9-7caa-419e-b175-f91beb76e253" alt="react" width=15/> React
 
 - <img src="https://github.com/BartoszJakubowsky/BartoszJakubowsky/assets/110412160/0e9ddc70-39db-4122-8c02-e63facb5c4a0" alt="vite" width=15/> Vite
 
