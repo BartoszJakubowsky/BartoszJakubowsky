@@ -1,6 +1,8 @@
 # I’m @BartoszJakubowsky
 
-I'm currently learning how to survive in juniors environment
+For the past two years, I've been learning and exploring how to create applications 🔥. 
+
+In the last year, I dedicated my time to web development 💀, which allowed me to get familiar with MERN stack and T3 stack.
 
 ## There's some of the tools i'm currently using:
 
@@ -15,8 +17,6 @@ I'm currently learning how to survive in juniors environment
 - <img src="https://github.com/BartoszJakubowsky/BartoszJakubowsky/assets/110412160/0dc46b7a-a021-466b-bf99-eeed1ad9b1e4" alt="next" width=15/> NextJS
 
 - <img src="https://github.com/BartoszJakubowsky/BartoszJakubowsky/assets/110412160/618df5e0-9a23-4000-a5bb-21bebfa66137" alt="tailwind" width=15/> TailwindCSS
-
-- <img src="https://github.com/BartoszJakubowsky/BartoszJakubowsky/assets/110412160/a7f20c84-4681-4633-9d46-1677edf1cb94" alt="t3 stack" width=15/> T3 Stack
 
 - <img src="https://github.com/BartoszJakubowsky/BartoszJakubowsky/assets/110412160/a6614fca-9d11-4520-a377-0254e473515d" alt="mongodb" width=15/> MongoDB
 
