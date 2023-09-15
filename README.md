@@ -2,7 +2,7 @@
 
 For the past two years, I've been learning and exploring how to create applications 🔥. 
 
-In the last year, I dedicated my time to web development 💀, which allowed me to get familiar with MERN stack and T3 stack.
+In the last year, I dedicated my time to web development 💀, which allowed me to get familiar with [**MERN**](https://www.javatpoint.com/mern-stack) stack and [**T3 stack**](https://create.t3.gg/en/introduction).
 
 ## There's some of the tools i'm currently using:
 
