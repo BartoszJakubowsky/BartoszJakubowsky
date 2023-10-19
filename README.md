@@ -22,4 +22,6 @@ In the last year, I dedicated my time to web development 💀, which allowed me 
 
 - <img src="https://github.com/BartoszJakubowsky/BartoszJakubowsky/assets/110412160/e59d5089-4f8c-4091-82f1-dd876b1affc0" alt="prisma" width=15/> Prisma
 
+- <img src="https://github.com/BartoszJakubowsky/BartoszJakubowsky/assets/110412160/2911f2e9-d9a9-4adf-ab57-8adc873f280f"/> Chakra UI
+
 
